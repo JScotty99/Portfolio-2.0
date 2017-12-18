@@ -7,3 +7,8 @@
     color: #757575;
     margin-bottom: 1rem;
 }
+
+.section img {
+    max-width: 20%;
+    height: auto;
+}
